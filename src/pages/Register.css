@@ -1,0 +1,30 @@
+/* Register.css */
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .register-form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .error-msg {
+    color: #ff0000;
+    margin-bottom: 10px;
+  }
+  
+  .register-success {
+    color: #00aa00;
+    margin-top: 10px;
+  }
+  
+  /* Additional styling can be added based on your design preferences */
+  
